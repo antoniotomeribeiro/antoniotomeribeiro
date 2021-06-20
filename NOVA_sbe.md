@@ -1,19 +1,19 @@
 Apresentação pessoal e percurso profissional
 Responder a perguntas como as que seguem e responder segundo a tua perspectiva (podes incluir experiências da RedMart também):
 
-How was it like to set up an eCommerce from scratch at Sonae and El Corte Inglés?
-How was your experience as Head of Ecommerce at El Corte Inglés?
+### How was it like to set up an eCommerce from scratch at Sonae and El Corte Inglés?
+### How was your experience as Head of Ecommerce at El Corte Inglés?
 
 Hard and Worth it
 
 - [ ] Design a team
-- [ ] Create a culture 
+- [ ] Create a culture focused on speed and user experience
 - [ ] Design business process
 - [ ] Create platformes to complete tasks
 - [ ] Change everything without losing what you already have
 
 
-What were the business needs that pushed Sonae and El Corte Inglés to transition to e-commerce?
+### What were the business needs that pushed Sonae and El Corte Inglés to transition to e-commerce?
 
 - [ ] The world was changing
 - [ ] 
