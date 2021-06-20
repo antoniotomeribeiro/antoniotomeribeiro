@@ -16,9 +16,12 @@ Hard and Worth it
 ### What were the business needs that pushed Sonae and El Corte Inglés to transition to e-commerce?
 
 - [ ] The world was changing
-- [ ] 
+- [ ] Sales were not losing power but that would have to come
 
 ### Regarding eCommerce & omnichannel, what are in your opinion the deal breakers?
+
+- [ ] Data and tech are 
+
 ### In terms of customer experience how to combine a bricks-and-mortar store with e-commerce?
 ### How does the rest of the company adapt to the e-commerce strategy?
 ### What core features are you looking for on an e-commerce platform?
