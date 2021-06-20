@@ -18,12 +18,12 @@ What were the business needs that pushed Sonae and El Corte Inglés to transi
 - [ ] The world was changing
 - [ ] 
 
-Regarding eCommerce & omnichannel, what are in your opinion the deal breakers?
-In terms of customer experience how to combine a bricks-and-mortar store with e-commerce?
-How does the rest of the company adapt to the e-commerce strategy?
-What core features are you looking for on an e-commerce platform?
-What are the struggles?
-What were negative experiences?
-What would you not repeat?
-How can subsidiaries from different countries share knowledge, technology and resources?
-How to speed up the organization’s culture to catch the Ecommerce train?
+### Regarding eCommerce & omnichannel, what are in your opinion the deal breakers?
+### In terms of customer experience how to combine a bricks-and-mortar store with e-commerce?
+### How does the rest of the company adapt to the e-commerce strategy?
+### What core features are you looking for on an e-commerce platform?
+### What are the struggles?
+### What were negative experiences?
+### What would you not repeat?
+### How can subsidiaries from different countries share knowledge, technology and resources?
+### How to speed up the organization’s culture to catch the Ecommerce train?
