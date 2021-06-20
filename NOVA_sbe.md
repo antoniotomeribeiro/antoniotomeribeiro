@@ -81,4 +81,18 @@ Hard and Worth it
 
 ### How to speed up the organization’s culture to catch the Ecommerce train?
 
-Give me answers
+You tell me
+
+# ROWS 
+
+- [ ] Citizen developers
+- [ ] Automate tools and data without IT
+- [ ] 3 use cases
+    - [ ] Data enrichment - linkedin, google, leads generation
+    - [ ] Reports
+    - [ ] Internal tools - refunds, messaging, email, journeys
+- [ ] Would you buy? Could a team buy software
+- [ ] Presentation to CIO Humberto
+- [ ] Ask Henrique
+
+
